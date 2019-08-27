@@ -1,6 +1,6 @@
 package Main;
 
-//@author Radames J Halmeman  - rjhalmeman@gmail.com
+//@author Kamila Matos
 import java.util.Scanner;
 
 class Entrada {
